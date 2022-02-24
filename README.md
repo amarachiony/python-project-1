@@ -8,10 +8,10 @@ This is my first python project created during the Code First Girls Python Bootc
 
  Read the data from spreadsheet  
  Collect all sales from each month into a single list  
- Perform simple arithmetic  
+ Perform simple calculations  
  Output total sales across all months to user  
  
 Additional Tasks  
  
+ Utilise a menu system to help the user navigate the data  
  Calculate percentage change  
- Utilise a menu system  
